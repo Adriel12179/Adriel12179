@@ -48,16 +48,6 @@
   <img src="https://img.icons8.com/color/48/computer-support.png" height="40" alt="Computer Maintenance logo" />
 </div>
 
-<br><br>
-
-<div align="center">
-  <img
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-    width="500"
-    alt="Coding Animation"
-  />
-</div>
-
 <div align="center">
 
 # 👋 Olá | Hello | Hallo

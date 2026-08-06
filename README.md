@@ -1,6 +1,6 @@
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 align="left">💻 I Code With</h2>
 
-<div data-importer="techs" align="left">
+<div align="left">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
@@ -15,10 +15,15 @@
 
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
+</div>
 
+<h2 align="left">🛠️ I Work With</h2>
+
+<div align="left">
   <!-- Robótica -->
   <img src="https://img.icons8.com/color/48/robot-2.png" height="40" alt="Robotics logo" />
+  <img width="12" />
+
   <!-- Manutenção de Computadores -->
-<img src="https://img.icons8.com/color/48/computer-support.png" height="40" alt="Computer Maintenance logo" />
+  <img src="https://img.icons8.com/color/48/computer-support.png" height="40" alt="Computer Maintenance logo" />
 </div>

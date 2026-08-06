@@ -26,10 +26,10 @@
 
   <!-- Manutenção de Computadores -->
   <img src="https://img.icons8.com/color/48/computer-support.png" height="40" alt="Computer Maintenance logo" />
-  
-  
-  
-  
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
-  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="Coding Animation" />
 </div>

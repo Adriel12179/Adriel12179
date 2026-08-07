@@ -44,7 +44,7 @@
   <img src="https://img.icons8.com/color/48/computer-support.png" height="40" alt="Computer Maintenance logo" />
 
     
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,vscode,arduino,latex,figma,linux,windows,git,github&perline=7"/>
+<img src="https://skillicons.dev/icons?i=figma=7"/>
 
 </div>
 

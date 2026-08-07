@@ -1,6 +1,8 @@
+```html
 <h2 align="left">💻 I Code With</h2>
 
 <div align="left">
+
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
@@ -35,17 +37,24 @@
 
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  <img width="12" />
+
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+
 </div>
 
 <h2 align="left">🛠️ I Work With</h2>
 
 <div align="left">
+
   <!-- Robótica -->
   <img src="https://img.icons8.com/color/48/robot-2.png" height="40" alt="Robotics logo" />
   <img width="12" />
 
   <!-- Manutenção de Computadores -->
   <img src="https://img.icons8.com/color/48/computer-support.png" height="40" alt="Computer Maintenance logo" />
+
 </div>
 
 <div align="center">
@@ -81,6 +90,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🎯 Áreas de Interesse
 
@@ -111,7 +121,7 @@ Sempre buscando aprender novas tecnologias e desenvolver projetos que gerem impa
 
 ### 💻 Technologies
 
-Python • OpenCV • HTML • CSS • JavaScript • MySQL • Linux • Git
+Python • OpenCV • HTML • CSS • JavaScript • MySQL • Linux • Git • Figma
 
 ### 🎯 Interests
 
@@ -142,7 +152,7 @@ I enjoy creating innovative solutions that combine software, hardware, and artif
 
 ### 💻 Technologien
 
-Python • OpenCV • HTML • CSS • JavaScript • MySQL • Linux • Git
+Python • OpenCV • HTML • CSS • JavaScript • MySQL • Linux • Git • Figma
 
 ### 🎯 Interessen
 
@@ -165,5 +175,4 @@ Ich lerne ständig neue Technologien und entwickle Lösungen mit sozialem und te
 💼 Open to internships, research opportunities and collaborations.
 
 </div>
-
-
+```

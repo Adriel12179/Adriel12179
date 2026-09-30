@@ -16,10 +16,10 @@ Estudante do **Instituto Federal do Ceará (IFCE)** e pesquisador/desenvolvedor 
 
 No **Laboratório de Sistemas e Dados (LSD)**, participo e colaboro em iniciativas como:
 
-* **Lupa Digital**: Ferramentas e análises focadas em transparência e dados.
-* **Robótica Modular Aplicada (RMA)**: Pesquisa e construção de sistemas robóticos modulares.
+* **Lupa Digital**: Ferramenta em desenvolvimento para ajudar pessoas com baixa visão.
+* **Robótica Modular Aplicada (RMA)**: Elaborar e criar uma ferramenta de ensino de baixo custo para as escolas. (Em desenvolvimento)
 * **Simulado do ENEM**: Plataforma/sistemas voltados ao apoio educacional e simulados.
-* **Projetos Fiocruz**: Soluções e integração tecnológica voltadas à saúde pública e dados.
+* **Projetos Fiocruz**: Soluções e integração tecnológica voltadas à saúde pública e dados. (Em desenvolvimento)
 
 ---
 

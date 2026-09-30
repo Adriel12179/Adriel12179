@@ -41,17 +41,6 @@ No **Laboratório de Sistemas e Dados (LSD)**, participo e colaboro em iniciativ
 * **Design & UI/UX**: Figma
 * **Prototipagem & Robótica**: Tinkercad
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
----
-
 ### 📫 Contato
 
 * 🎓 **E-mail Institucional:** [francisco.adriel12@aluno.ifce.edu.br](mailto:francisco.adriel12@aluno.ifce.edu.br)

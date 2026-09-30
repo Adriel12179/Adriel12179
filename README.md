@@ -27,19 +27,10 @@ No **Laboratório de Sistemas e Dados (LSD)**, participo e colaboro em iniciativ
 
 ![Linguagens](https://skillicons.dev/icons?i=js,java,py,html,css&perline=5)
 
-* **Desenvolvimento Web & Software**: JavaScript, HTML5, CSS3, Java, Python.
-* **Robótica & Hardware**: Desenvolvimento e integração de hardware/software para protótipos e robótica modular.
-
----
 
 ### 🛠️ Ferramentas & Ambientes de Desenvolvimento
 
 ![Ferramentas](https://skillicons.dev/icons?i=vscode,eclipse,figma,mysql&perline=5)
-
-* **IDEs e Editores**: VS Code, Eclipse
-* **Bancos de Dados**: MySQL Workbench
-* **Design & UI/UX**: Figma
-* **Prototipagem & Robótica**: Tinkercad
 
 ### 📫 Contato
 

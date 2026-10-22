@@ -1,7 +1,7 @@
 # Olá, eu sou o Francisco Adriel! 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Idade-16_anos-blueviolet?style=for-the-badge" alt="Idade" />
+  <img src="https://img.shields.io/badge/Idade-17_anos-blueviolet?style=for-the-badge" alt="Idade" />
   <img src="https://img.shields.io/badge/Instituição-IFCE-green?style=for-the-badge" alt="IFCE" />
   <img src="https://img.shields.io/badge/Laboratório-LSD-orange?style=for-the-badge" alt="LSD" />
 </div>
